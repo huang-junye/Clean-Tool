@@ -1,5 +1,7 @@
 # 🧹 Clean Tool 系统垃圾清理工具
 
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/a21dcbad-7384-442f-8744-4eb49869aabe" />
+
 一款适用于 **Debian 13 / Qualcomm 410 / ARM 设备** 的轻量级系统清理脚本工具，支持菜单模式与 `clean` 命令快速启动。
 
 ---
